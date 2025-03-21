@@ -1,0 +1,1 @@
+inst = "t3a.small"
